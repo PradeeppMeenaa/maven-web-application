@@ -9,6 +9,7 @@
 </head>
 </head>
 <body>
+<h1 align="center"> New Version (VERSION -2) is LIVE NOW !! </h1>
 <h1 align="center"> Welcome to Trevonix Identity Simplified !! Mobile Number: +91-9828392637 </h1>
 <h1 align="center"> Trevonix is a cybersecurity company specializing in identity management and zero-trust security. It offers solutions like multi-factor authentication (MFA), privileged access management (PAM), and AI-driven threat detection to secure digital identities for both customers and employees </h1>
 <hr>
